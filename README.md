@@ -1,4 +1,4 @@
-# Chatbot with PDF Level 1 🤖💬
+# Chatbot with PDF 🤖💬
 
 Welcome to the Chatbot with PDF, Level 1! This interactive application leverages Azure OpenAI's gpt-3.5-turbo (but you can also use different versions) and text-embedding-ada-002 models to create a conversational AI experience. The chatbot helps you better understand the workings of language models in a fun and instructive way.
 
