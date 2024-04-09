@@ -62,7 +62,7 @@ def main():
         # Initialize embedding model
         embed_model = AzureOpenAIEmbeddings(
             azure_deployment=os.environ.get('EMBEDDING_NAME'),
-            openai_api_version="2023-07-01-preview",
+            openai_api_version="your Azure_Open_AI_API_info",
         )
 
         # Load existing embeddings if conversation name exists
